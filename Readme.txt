@@ -15,4 +15,4 @@ Example p: testDir/sm_doc_set
 to run the program.
 6. output is printed to console. 
 
-Github Link: https://github.com/AdityaG2000/cheaters_ag68834 
+Github Link: https://github.com/AdityaG2000/cheaters_ag68834-
